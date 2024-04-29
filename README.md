@@ -1,18 +1,20 @@
 ## Kingnako - Building Exceptional Web Applications with the MERN Stack
 
-**GitHub license:** [https://github.com/kingnako/kingnako/blob/main/LICENSE](https://github.com/kingnako/kingnako/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/blob/main/LICENSE)
 
-**GitHub stars:** [https://github.com/kingnako/kingnako/stargazers](https://github.com/kingnako/kingnako/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/stargazers)
 
-**GitHub forks:** [https://github.com/kingnako/kingnako/network](https://github.com/kingnako/kingnako/network)
+[![GitHub forks](https://img.shields.io/github/forks/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/network)
 
-**GitHub issues:** [https://github.com/kingnako/kingnako/issues](https://github.com/kingnako/kingnako/issues)
+[![GitHub issues](https://img.shields.io/github/issues/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/issues)
 
-**GitHub PRs:** [https://github.com/kingnako/kingnako/pulls](https://github.com/kingnako/kingnako/pulls)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/pulls)
 
-**GitHub contributors:** [https://github.com/kingnako/kingnako/graphs/contributors](https://github.com/kingnako/kingnako/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/graphs/contributors)
 
-**GitHub last commit:** [https://github.com/kingnako/kingnako/commits](https://github.com/kingnako/kingnako/commits)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/commits)
+
+[![GitHub license](https://img.shields.io/github/license/kingnako/kingnako.svg)](https://github.com/kingnako/kingnako/blob/main/LICENSE)
 
 ## About Me
 
